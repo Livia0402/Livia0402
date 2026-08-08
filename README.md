@@ -3,7 +3,7 @@
 
 ###
 
-<div [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Livia0402&rank_icon=github&custom_title=Livia%27s%20stats&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=Livia0402&rank_icon=github&custom_title=Livia%27s%20stats&show_icons=true&include_all_commits=true&theme=city_lights)  />
+<div> [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Livia0402&rank_icon=github&custom_title=Livia%27s%20stats&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=Livia0402&rank_icon=github&custom_title=Livia%27s%20stats&show_icons=true&include_all_commits=true&theme=city_lights)  />
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Livia0402&langs_count=4&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=Livia0402&langs_count=4&theme=city_lights)
 </div>
 
