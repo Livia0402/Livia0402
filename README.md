@@ -7,7 +7,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"  />
 
 ###
 
@@ -38,6 +38,12 @@
 </div>
 
 ###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Livia0402/Livia0402/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Livia0402/Livia0402/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Livia0402/Livia0402/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 <br clear="both">
 
